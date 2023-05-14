@@ -1,3 +1,8 @@
+/**
+* Author SKerpanSchaefer
+* Since5/13/2023
+* Version 1.0
+  */
 # Java-Lab-004
 
 * In this lab, edit/add/update the given code to complete all parts.
